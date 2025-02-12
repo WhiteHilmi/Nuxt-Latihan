@@ -150,7 +150,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'https://http://ecommerce.bbhealthyshop.com/'
+    baseURL: 'http://ecommerce.bbhealthyshop.com/'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
